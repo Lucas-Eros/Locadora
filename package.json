@@ -1,0 +1,26 @@
+{
+  "name": "locadora",
+  "version": "1.0.0",
+  "description": "Api criada com a finalidade de aprofundar meus conhecimentos em node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucas-Eros/Locadora.git"
+  },
+  "author": "Lucas Eros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lucas-Eros/Locadora/issues"
+  },
+  "homepage": "https://github.com/Lucas-Eros/Locadora#readme",
+  "dependencies": {
+    "consign": "^0.1.6",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.0",
+    "nodemon": "^3.0.1"
+  }
+}
